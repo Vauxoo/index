@@ -6,3 +6,7 @@
 	path = mexico
 	url = git@git.vauxoo.com:vauxoo/mexico.git
 	branch = 14.0
+[submodule "index"]
+	path = index
+	url = git@git.vauxoo.com:vauxoo/index.git
+	branch = 14.0
